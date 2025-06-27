@@ -32,12 +32,12 @@ Get to know the passionate individuals behind OpSOL! We believe in collaboration
     *   UI/UX design
     *   Frontend development
 
-#### [Team Member Name 4] - Backend Engineer
-*   **GitHub:** [@github_user_4](https://github.com/github_user_4)
+#### Samuel Williams - Backend Engineer
+*   **GitHub:** [@samuelowilliams](https://github.com/samuelowilliams)
 *   **Bio/Responsibility:** Crafting code and implementing features.
 
-#### [Team Member Name 5] - ML Engineer
-*   **GitHub:** [@github_user_5](https://github.com/github_user_5)
+#### loadedcypher - ML Engineer
+*   **GitHub:** [@loadedcypher](https://github.com/loadedcypher)
 *   **Bio/Responsibility:** Crafting code and implementing features.
 
 > Feel free to replace the bracketed placeholders `[Team Member Name]` and `[Short bio/key responsibility]` with your actual team's details. Remember to update the GitHub user links and provide an accurate description of what OpSOL does!
