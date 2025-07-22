@@ -16,6 +16,7 @@ Get to know the passionate individuals behind OpSOL! We believe in collaboration
 
 ### Our Core Team
 
+<!--
 #### [Team Member Name 1] - CEO / Lead Architect
 *   **GitHub:** [@github_user_1](https://github.com/github_user_1)
 *   **Bio/Responsibility:** Driving the vision and overall strategy.
@@ -24,12 +25,15 @@ Get to know the passionate individuals behind OpSOL! We believe in collaboration
 *   **GitHub:** [@github_user_2](https://github.com/github_user_2)
 *   **Bio/Responsibility:** Overseeing technical development and infrastructure.
 
-#### [Team Member Name 3] - Product Manager
-*   **GitHub:** [@github_user_3](https://github.com/github_user_3)
+-->
+
+#### [Fahmi Mokhupuki] - Product Manager
+*   **GitHub:** [@Mokhupuki](https://github.com/Mokhupuki)
 *   **Bio/Responsibility:** Guiding product roadmap and user experience.
 
+
 #### Goitseone Themba - Frontend Engineer
-*   **GitHub:** [Goitseone-Themba](https://github.com/Goitseone-Themba)
+*   **GitHub:** [@Goitseone-Themba](https://github.com/Goitseone-Themba)
 *   **Bio/Responsibility:**
     *   UI/UX design
     *   Frontend development
