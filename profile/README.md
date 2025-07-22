@@ -27,7 +27,7 @@ Get to know the passionate individuals behind OpSOL! We believe in collaboration
 
 -->
 
-#### [Fahmi Mokhupuki] - Product Manager
+#### Fahmi Mokhupuki - Product Manager
 *   **GitHub:** [@Mokhupuki](https://github.com/Mokhupuki)
 *   **Bio/Responsibility:** Guiding product roadmap and user experience.
 
