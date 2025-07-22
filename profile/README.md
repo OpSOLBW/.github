@@ -1,10 +1,12 @@
 # Hi there 👋 Welcome to OpSOL!
 
-We are OpSOL, a team dedicated to [briefly describe what your company does or aims to do - e.g., "innovating open-source solutions," "developing cutting-edge software," etc.].
+<!-- We are OpSOL, a team dedicated to [briefly describe what your company does or aims to do - e.g., "innovating open-source solutions," "developing cutting-edge software," etc.].
 
 ## Our Mission
 
 Our mission is to [state your company's mission or core value].
+
+-->
 
 ---
 
@@ -40,9 +42,9 @@ Get to know the passionate individuals behind OpSOL! We believe in collaboration
 *   **GitHub:** [@loadedcypher](https://github.com/loadedcypher)
 *   **Bio/Responsibility:** Crafting code and implementing features.
 
+<!--
 > Feel free to replace the bracketed placeholders `[Team Member Name]` and `[Short bio/key responsibility]` with your actual team's details. Remember to update the GitHub user links and provide an accurate description of what OpSOL does!
 
-<!--
 
 **Here are some ideas to get you started:**
 
